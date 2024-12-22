@@ -1,0 +1,1 @@
+The Movie Recommendation Program is designed to provide users with personalized movie suggestions based on their input. This system utilizes graph data structures and algorithms to find similar movies that are nearest. It uses Dijkstra's algorithm to find the nearest movies based on edge weights (distance between movies).
